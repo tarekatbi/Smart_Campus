@@ -1,0 +1,42 @@
+[
+    {
+        "first_name": "Nadir",
+        "last_name": "Berrouane",
+        "email": "nadirberrouane@yahoo.com",
+        "phone_number": 123455,
+        "field": "Sécurité Informatique",
+        "rank": 2
+    },
+    {
+        "first_name": "Noureddine",
+        "last_name": "Aribi",
+        "email": "noureddinearibi@gmail.com",
+        "phone_number": 123455,
+        "field": "Programmation linéaire",
+        "rank": 1
+    },
+    {
+        "first_name": "Lougmiri",
+        "last_name": "Zekri",
+        "email": "lougmirizekri@yahoo.com",
+        "phone_number": 123455,
+        "field": "Parallélisme et Systèmes embarqués",
+        "rank": 1
+    },
+    {
+        "first_name": "Hafid",
+        "last_name": "Haffaf",
+        "email": "haffafhafid@gmail.com",
+        "phone_number": 123455,
+        "field": "Logique mathématique",
+        "rank": 1
+    },
+    {
+        "first_name": "El Abassia",
+        "last_name": "Debaa",
+        "email": "abassiadeba@yahoo.com",
+        "phone_number": 123455,
+        "field": "Réseaux et technologie de web ",
+        "rank": 1
+    }
+]

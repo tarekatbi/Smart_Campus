@@ -1,0 +1,452 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#a1a1a1",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#dddddd",
+        "fill-opacity": 0.5,
+        "data": "campusMap"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.6322476267814636,
+              35.662258459552916
+            ],
+            [
+              -0.6311962008476257,
+              35.66052379091179
+            ],
+            [
+              -0.6310111284255981,
+              35.660545583465165
+            ],
+            [
+              -0.6308341026306152,
+              35.6604344413809
+            ],
+            [
+              -0.6305846571922302,
+              35.660423545089785
+            ],
+            [
+              -0.6292730569839478,
+              35.660314582097044
+            ],
+            [
+              -0.628444254398346,
+              35.660253562756154
+            ],
+            [
+              -0.6283825635910034,
+              35.66060442332948
+            ],
+            [
+              -0.6276261806488037,
+              35.661025018134126
+            ],
+            [
+              -0.6272721290588378,
+              35.66113180091841
+            ],
+            [
+              -0.6263762712478638,
+              35.66141510149091
+            ],
+            [
+              -0.6251451373100281,
+              35.66187709719146
+            ],
+            [
+              -0.6257995963096619,
+              35.66282287250514
+            ],
+            [
+              -0.6256332993507385,
+              35.662901323410495
+            ],
+            [
+              -0.6262636184692383,
+              35.66379478661668
+            ],
+            [
+              -0.6281653046607971,
+              35.66287517311728
+            ],
+            [
+              -0.6287339329719542,
+              35.6636705740376
+            ],
+            [
+              -0.6322476267814636,
+              35.662258459552916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Salles des conférences TALAHIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.631498,
+          35.662024
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLVBblz2xBCXC4rme5amEQ7c11NizA4a8FX2UHE59HXo1B8eni5Q9Bt-z-kG83W3QKLHcyNX1n1EAAuqLkEhTr9NN3Ns6gSS4_1ylfaU_phKYsU7iKdG6Xaqz7_6HLT-PU69gV6PYt9HS9iuXHg59UOs=w1280-h960-no"
+      ],
+      "desc": [
+        "<p>l'Auditorium Talahit Bekhlouf</p>"
+      ],
+      "floors": false,
+      "contact": "041519167,secretariatoran1@gmail.com"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Sanitaire "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.631121,
+          35.660681
+        ]
+      },
+      "photos": [
+        ""
+      ],
+      "desc": [
+        "<p>Aucune description n'est disponible</p>"
+      ],
+      "floors": false
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Restaurant universitaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.628728,
+          35.660766
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLUiH7N6IBxy_hyL1YJANltQ1rFmkGrjLosVqkf3afOKm9FKyCyTBW765qGTStSppk7YqGlVaYUtjrGpKVBHnMhvF6BCkv1We0trXgqzF_wGu8V-bWAnWCHTkRloajtnTmNkH36Gzw18mJKYrko6eM_7=w1258-h943-no"
+      ],
+      "desc": [
+        "<h1>Menu du Jour : Personnalisez votre pause repas !</h1><p>Un repas complet (entrée + plat + dessert + un petit pain) à <i>300D.A FCFA</i></p><hr> <p><strong>Entrée : </strong> Salade de bettterave et concombre. </p><p><strong>Résistance : </strong> Riz cassé + friture au poulet.</p><p><strong>Dessert : </strong> Dessert patissier. </p>"
+      ],
+      "floors": false
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Institut des Sciences Techniques et Appliquées"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.628217,
+          35.66146
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLXygX14qnvaz5WcLHcqO-hTb2f3nIB01_E8vuU9d71BLyTDhKLknIdflFTRAUHxR8qEx6Co9Ytm0-Fp9eU0TOasRoNOW6NdTTQfAnm3qplvd24UlHx_HRsp6Rc8qwefdFVQOSZQYs-eD2KFOMx9ZQ72=w1280-h960-no",
+        "https://lh3.googleusercontent.com/pw/AM-JKLUbr4PmjKRB13qloMu3d6RpDxZvtpuqv526HLJzYd-4gIFRAZTlDRZSGPAL9wpQWYrU7LYJhTphEdpQDgOyu2dSJu2ZkbBPSgu1T-OHn0R5qe_zZF0d7gBejUG2mIxXXEf6Z1Hpbln4i6KB8W6dP1Ku=w1280-h960-no",
+        "https://lh3.googleusercontent.com/pw/AM-JKLXTwmbXhFnhhE0QAkQF7j8DqI0kGb-bK817RAXOmYByLT0oyEnQsm_wXFyEaxYQYsq8rtoXxqE_e_nNv41uMqDouvxX5dZbrEPnFihxzJniuvy3qcm5l7m9E6jllfRRZBdOJfrkvwYWJ9igvOzBRb1Z=w1280-h960-no",
+        "https://lh3.googleusercontent.com/pw/AM-JKLUvqnj0vMMUpJAI4dahZl1zgqWZhgOOK0injIOW49KJR5GVtvRMIyqLlqgOu4y-BKbxPIS6F4A_3u4MlXWooCmLU-wDhn-wvPUMr_jtFgc96WPV8FBTgPADTCn7mq_cb5DlNM5iI8VNYEYB089ydAke=w1280-h960-no"
+      ],
+      "desc": [
+        "<p>L'institut des Sciences et Techniques Appliquées de l'Université Oran 1. Spécialisés dans des formations techniques.</p>"
+      ],
+      "floors": false,
+      "contact": "+21341518953,ista@univ-oran1.dz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Service tranport universitaires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6287003456757697,
+          35.66147591536219
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLWnEJ5rWbrbUyvdufSpatP1KFLVm2bVfSi4vKWLdLEkphBfwBy-cQSd-1qb-VHH5H2wQLD-OaJom13b_RD6tq1Sm-Enm4DI_5NA1rwkziWVLkPf42NglCysaR3ffKOb4_abbrmMK5bV46hO-grTfSH9=w1258-h943-no"
+      ],
+      "desc": [
+        "<p>Région couverte par le transport:</p> <ul> <li>Arzew</li> <li>Bettioua</li> <li>Hai Esselam</li> <li>Ain El Bia</li> <li>Marsa El Hadjaj</li> <li>Hassi Mefsoukh</li> <li>Sidi Benyabka</li> <li>Gdyel</li>Ha <li>ssi Benokba</li> <li>Hassi Bounif</li> <li>Boufatis</li> <li>Benfreha</li> <li>Hessian Etoual</li> <li>Oued Tlelat</li> <li>El Kerma</li> <li>Hai Ennedjma</li> <li>El Emir Abdelkader</li> <li>Hai EL Amel</li> <li>Mersa El Kebir</li> <li>Ain Turk</li> <li>El Ançor</li> <li>Bousfer</li> <li>Boutlilis</li> <li>El Hassi</li> <li>Messerghine</li></ul>"
+      ],
+      "floors": false,
+      "contact": "041249643,oranbdjir@onou.dz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Faculté des sciences exactes & appliquées"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6280327295261077,
+          35.662454467759495
+        ]
+      },
+      "photos": [
+        ""
+      ],
+      "desc": [
+        "<p>Faculté des Sciences Exactes & Appliquées de l'Université Oran1 comprend 1 départements: <strong>Informatique &comma;&nbsp; Mathématiques &comma;&nbsp; Physique et Chimie</strong> ainsi que la bibliothèque R.HMADACHE</p>"
+      ],
+      "floors": false,
+      "contact": "+21341518953,fsea@univ-oran1.dz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Bibliothèque : Faculté des sciences sociales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.62746,
+          35.662885
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLUoEzb-Iv4Vmyd1HZnXsl0uRo3l6ymAyZIFigwKgLDCwFU6_O6p0O-XU_VWoxx1FRxI-2jh8zkIt9LRypqCZa1G0pnfPrhrk_dBh1-_FUfVKZMBVNYK9TAcvoGo66YREDyshbCuSTkFPrrUzx7DuwMB=w1280-h960-no",
+        "https://lh3.googleusercontent.com/pw/AM-JKLVH-wJulKCSmWbf53TQGPSaXmQdAOA904Gxpu_2x3hK7AnP8CJ6UqsOmA-oZMRTKWDiQaQ572COyylnVx1vdZYbAsnoOl54isCj_lutgbMsK2Xr0h1k1afVZGHykz1blOUegIvIxy-r1F3FMJBL7ITt=w1280-h960-no"
+      ],
+      "desc": [
+        "<p>La bibliothèque de la Faculté des sciences sociales a été créée en 1989.</p><p>Elle appartient à la Faculté des sciences sociales Université d'Oran 2 Mohamed ben Ahmed au niveau du complexe Mourad Talib Salim.</p><p> La bibliothèque occupe un emplacement propice au calme pour ses usagers.</p><p>Elle n'est pas loin des salles d'enseignement ce qui en facilite l'accès aux étudiants et aux professeurs.</p><p> Elle est considérée comme l'espace vital nerf au sein de l'université comme son principal pilier.</p>"
+      ],
+      "floors": false
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Parking - Salles des TD (Titanic) "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.628581,
+          35.66265
+        ]
+      },
+      "photos": [
+        ""
+      ],
+      "desc": [
+        "<p>Aucune description n'est disponible</p>"
+      ],
+      "floors": false
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Bloc Titanic - Faculté des sciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.628925,
+          35.662655
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/ozxJuLGFUvpNqihhb9LxRr-uYsbLOCglwyFnihOArGu6qfBZ1DZrReiFQpv9xLIu_yCXg1BeAyv0hdnOA3ksNmRV1qemu7ttHZg3dXY93v0GxFPwYii8GoJaOSUHQIGFA6nyavCXPV2Iqz9OrjjYt7jsJ9Ij6LZjg9MBl6t8dOf9Ldm7Y2nmoJUUPpKjXQyBbaCjLRUTv_emlMKLxQRU6sKk-PgtO4kAGe60JUXe8XlCpecQhvxbc44oZCtX_tdSCQVGv17QUtdWL8yA9xl0X6NHlvVk-M-Mev3XMCx61EE56f4G1t-WuUUXz-2EWQEyiCr3_iGQXX-TwpT_zts5nJyC_jiA4rFItXmgfHlUpDHPcXJ3jP4Y2I_xUklLfmcpFAjbPjOIw8u1AojuAP4QIUQfYqX8glUaEaIvt95P571H4nGGWtgizOcWmNxNN0P8DLOUHDnkIQKb_4Kcx80LgDYRpb5wQJm9w2LdIadQQjdVcoGcwHdhQuviQXtQ29K9domIYnAGFULfXDdl_-kfGAbAi5w6by8KOOpL3WA3xjSlH3l8rtq3k9VZFeDumf7zfkE_GV4r8GpnFxLlo47SyT3kpHEq_M7Yu0Tjxc1qVTu_PMRbYzJPBmrxzeRHiT8GzalJE2oCX-O2LxE9NYvC70AwPsMGXFEYC87Oo19s5-tb-eIO2CUvUPBLZLfClfvv_0SRpBW4IjRtOlKKnaQA43yinzK_1sPN0eeWpi11KmMwklNuuJ0-BQN3IUw=w1280-h960-no?authuser=0",
+        "https://lh3.googleusercontent.com/dFw1OI9jjQovPbH1WQeIbNBpqpsu7m-SNEAMErlFOLrUeYAl6KVYiB7X3V-6D1-MUyRE1q34Ke7v4rcx08xrURuf_JvvOL44EC80ucQVaFP6FAaTIIbPlEpAXOz6VL5i7rn-m1IBA2JwnPYBCKQpB53u7MIA6ifPRtU6xMzHswGBrMmB8DpsXBQ1usFhg-2vzW4vbri9YPBX7eqw7a_wE3bIp_F6JXVGsO1icXcAqGfjIjXWe3paVLZUstFO3xWSzwo4HDhXJYLbdv3p4nfNaDtgWf5rvyC7lRZ4XIEj9LNYW1VopMm3D1fp7n4P_ih7nUsXvKkC_hFf5leB6E1INPR7B4QN-QLvKfbLu7U9pxE6NpdjTXs2Quhfztg_8Lsq2dYL1PfurNyMfvOu6s7prCgbEJarB3sbJcH41BbQT8oULcCLywM1JG4_EBu1TMi6GG3oE7A8-WSU9iO1m1XWwxH6EXqfYxIMIuJkfblPe6dg83UAOdLhEq2ULL4uvvfp70SH2d5b33S-uFXPf-zrJlDJsOcywMEugCGBf5yBM12ohj4x2b6VSbb9SYlVCkEVuztD8medIbduk_Pu3nUhmYL7iz4F1ehSyuKAz-PlHHW8Ez7r6hMO0sVFd2FDcI8f62Ysf4yawephYXt9Uxg2X_yU6jxnj3HdcZ9CDeZOLmZW-uKAnHqq1NCs3DxloWULzmpqAR0JMTzYloVYntimYhW34KYdn7uRJY6-K4FAq-35BQQrIGNy5neWYHM=w1280-h960-no?authuser=0",
+        "https://lh3.googleusercontent.com/vxPurS6Q0Oqu3LIZbpIgjF56Q-7Mu4ZNqnfEReEFoRquNLSqS7eeOJAkQjL_OLFTsvGevZONduQAgFbcDWcwIYlVxWBngd65wS_84w2uUsRMY3u0o2BLsa18RsfR0UDUHXKxEWiW099rESqcLUMEO1Mj9Rg1LVdiEfVYi2C0ohjKBwZP4wMzw6g5OUKao-XXNrRHVNH3uXlJUw6bFwcub_cxlBywPAJo1oSwQJ7hD7J8N-K04eRFConliGJRGih_rpqJRGresGzjN4Z-mPQ6m5vutVIeOzkiMSFQTJ45HMw8uwubXEAMIVV8Yr44_nP-60m2cS5X8_DOSYmFQx2Cz4_-NWXE-DST1XBeMmNB65Gn2B-AGtL556sv2BUANiRFsge0Pz_VKL7-_YWflgjsArtBT3wOU2kjDRIiJ5i5Pic2TsWOIZ43VCy72tUOeK4jNbib8ieyRbEqXuhRyD6ds-a5Rzfhg0l4i1UoqEsUUPNYFn9QbsEwbKbhN-uo2qCcn2-921w7JAd1FjgTrzY-P6m6zJTfEdj_1hvk7EhneOX9XvOC3I6w4l-SnsABpfBtlK9zNpXPTmW3ZMWwpD1hYN5iTmqyW5wyJ6ERr889SuSym1_WMTom9YHfrg7xMN2VhZ5_sQJUT2LvgK_glNZDNOr0pDCHWessjDV8--1roMihkdvms0JYFalsDrxCAbe96TSHcMwSE3f25HPXro4kKbmLT6Zy-DpR0p5pwrqbAhOVmFELUoWY0HtGgv0=w1280-h960-no?authuser=0"
+      ],
+      "desc": [
+        "<li>Salles TP Informatique Chimie, Physique</li>",
+        "<li> Salles TD Informatique</li>",
+        "<li>Salles TD Informatique</li>"
+      ],
+      "floors": true,
+      "contact": "041519167,secretariatoran1@gmail.com"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Bibliothèque : Faculté des sciences exactes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6300375240752701,
+          35.66268953183995
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLXvZYN2it_OyhNkBania3gtmt9GEswCJLqYPoPUfazTcp-BDgtUfYQ84qiZyQ-GXm-cW8c-A8OSa2L6mCv8GUpyU_Mwd8I17Y3KmnskVIHnoG_vClJRai7DMj30tCW4469p4CAyzGVuufHlC0EeFTq4=w1280-h960-no"
+      ],
+      "desc": [
+        "<p>La Bibliothèque des Sciences (R.HMADACHE) est l'une du réseau des bibliothèques de l'Université d'Oran1. Ses portes furent ouverts en Janvier 2000. Elle est un outil de formation d'enseignement &comma; de recherche et un service à la communauté.</p>"
+      ],
+      "floors": false,
+      "contact": "041519167,secretariatoran1@gmail.com"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Téle-Education & Distance Learning Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6302628296370492,
+          35.66170888739954
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLVaU-bZ5J2BowK1z7GzP29b9PjnhXYAOTEy7IBiAl7urKf67w1JeJ0N7OMXo-cOa6wMWVw1AqAAyOUuIuJQIMQJUqH_IEuVzBKPU7xM2sD3oVS_SLrK5J3lqt3AmDVBMf1YWJZOzMl0hfNh8u5uay_9=w1258-h943-no"
+      ],
+      "desc": [
+        "<p>L'Université Oran 1 Ahmed Ben Bella met en place un Espace en ligne &comma; qui permet aux Enseignants d'héberger leur Page Web ainsi que leurs activités et ressources scientifiques et pédagogiques et qui permet aux Étudiants d'y accéder librement ou au travers de leurs comptes.</p>"
+      ],
+      "floors": false,
+      "contact": "1016,tele-enseignement@univ-oran1.dz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#90e0ef",
+        "marker-size": "medium",
+        "name": "Les amphithéatres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.630783,
+          35.662168
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLXok4vvLwhf2wdXEPI-pe6GUCzQfTJK85VsCGOFrRUMKrVNJzK6jewz0YXpR0yX4ZufsyP05lrxQOIULVu9VgQphE8b9NGISdqfybwTVoaxdgFv3112lkk_hx_QlUYRWQpOVLcUwpxFlvJ87eWycwa2=w1258-h943-no",
+        "https://lh3.googleusercontent.com/pw/AM-JKLUafiVX_cAngttthrsxL29fNS9j7FUYF08bgAisxTvlsqbKXtEWJv7ENTH6uC-z88lvJy3PzkEleXURL_m29aj8qsU19znraxA2vvRvG19n4ZMNI8dwXOVfteF0UjMoNrXPXCppXh_Zjy5hv6qvtRO7=w1258-h943-no"
+      ],
+      "desc": [
+        "<p>Les amphis A1 &comma; A2 &comma; A3 &comma; A4 de la faculté des Sciences Exactes & Appliquées</p>"
+      ],
+      "floors": false,
+      "contact": "041519167,secretariatoran1@gmail.com"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bloc A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6307093799114226,
+          35.66120916386683
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLWue5lsxi-8zxPS7s6GRX07VHA3ZQ5ktAIf-Ma5nOk9eWElKX3iupAWZCROxs77VyQ_MmKoWNdLDRkNc6KtgCKxWkHr51VpYBsStWa6nFZMBaQryTpJwePK0cwxlo43E3xfF2YmTXfaiTnEE5sI6RzD=w1280-h960-no"
+      ],
+      "desc": [
+        "<li> Département physique</li>",
+        "<li>Laboratoire d’informatique (LIO)</li><li> Salles TD Informatique</li>",
+        "<li>Salles TD Informatique</li> <li>Salles TP Informatique</li>"
+      ],
+      "floors": true
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bloc C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6303016841411591,
+          35.66149900185214
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLXx8NW1XKIR1f5unrDK6AZxJgl9barijUxpTXiw_MqbfHyRAqlPXnOvfpPCWNdRv8Kk8sNnHF4DjoPnmLj2vD2BBOt8YKDV_TweQYpeKCFis4MdiBKxHLPpKt4LfhOo0ficlULNBVifJShfdysl2mja=w1280-h960-no"
+      ],
+      "desc": [
+        "<li>Service de télé-enseignement</li> <li>Service de Scolarité et Diplômes Département Mathématiques</li>",
+        "<li>Laboratoires de Chimie</li>",
+        "<li>Département d’Informatique</li>"
+      ],
+      "floors": true
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bloc D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6300938129425049,
+          35.66163847238744
+        ]
+      },
+      "photos": [
+        "https://lh3.googleusercontent.com/pw/AM-JKLVpDc2VBi0WH7S1qNTYUriGrOJn_BNxqbcyXYLn6ZiTiuFnQwo9GF2d7nrSC_sEs9gT6iwnjmjzeFFC289l4_nJi2aZqQCkBkZP26SNXenyUBvwediCVQTr1n0WwdZ8c3roAthWrQG6K-1HzBsdK_ee=w1280-h960-no"
+      ],
+      "desc": [
+        "<li>Accueil service Scolarité</li>",
+        "<li>Laboratoire Chimie des matières</li>",
+        "<li>Laboratoire d’élevage et de valorisation biologique</li>"
+      ],
+      "floors": true
+    }
+  ]
+}

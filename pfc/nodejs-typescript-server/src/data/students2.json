@@ -1,0 +1,22 @@
+[
+  {
+    "first_name": "Ikram",
+    "last_name": "Messadi",
+    "birth_date": "2002-02-10",
+    "field": "Informatique",
+    "email": "ikram.messadi00@gmail.com",
+    "matricule_bac": "191258359",
+    "cle_secrete": "KwghT123",
+    "phone_number": 555210732
+  },
+  {
+    "first_name": "Tarek Yacine",
+    "birth_date": "2001-01-06",
+    "field": "Informatique",
+    "last_name": "Atbi",
+    "email": "tarekatbi@gmail.com",
+    "matricule_bac": "181235568",
+    "cle_secrete": "HtgllK123",
+    "phone_number": 552832992
+  }
+]

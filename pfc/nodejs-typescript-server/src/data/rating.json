@@ -1,0 +1,62 @@
+[
+    {
+        "user_id": 358,
+        "textbook_id": 40,
+        "rate ": 4
+    },
+    {
+        "user_id": 358,
+        "textbook_id": 135,
+        "rate ": 4
+    },
+    {
+        "user_id": 358,
+        "textbook_id": 104,
+        "rate ": 3
+    },
+    {
+        "user_id": 358,
+        "textbook_id": 88,
+        "rate ": 4
+    },
+    {
+        "user_id": 358,
+        "textbook_id": 111,
+        "rate ": 2
+    },
+    {
+        "user_id": 357,
+        "textbook_id": 11,
+        "rate ": 3
+    },
+    {
+        "user_id": 357,
+        "textbook_id": 60,
+        "rate ": 4
+    },
+    {
+        "user_id": 357,
+        "textbook_id": 124,
+        "rate ": 4
+    },
+    {
+        "user_id": 357,
+        "textbook_id": 88,
+        "rate ": 4
+    },
+    {
+        "user_id": 357,
+        "textbook_id": 111,
+        "rate ": 2
+    },
+    {
+        "user_id": 357,
+        "textbook_id": 116,
+        "rate ": 4
+    },
+    {
+        "user_id": 358,
+        "textbook_id": 115,
+        "rate ": 3
+    }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "matricule": "1",
+    "password": "b5279a3f499e93de",
+    "matricule_bac": "36172",
+    "cle_secrete": "f55ec353"
+  },
+  {
+    "matricule": "2",
+    "password": "648924f85bbb5c96",
+    "matricule_bac": "11678",
+    "cle_secrete": "47c4cc90"
+  },
+  {
+    "matricule": "3",
+    "password": "ea4f95a524deb230",
+    "matricule_bac": "23072",
+    "cle_secrete": "c5f66ca3"
+  },
+  {
+    "matricule": "4",
+    "password": "4ac797490c4fc537",
+    "matricule_bac": "24938",
+    "cle_secrete": "b4d9e94f"
+  },
+  {
+    "matricule": "5",
+    "password": "595be4bc861981b7",
+    "matricule_bac": "31177",
+    "cle_secrete": "fa767679"
+  },
+  {
+    "matricule": "6",
+    "password": "4ad2c10be859dbcf",
+    "matricule_bac": "41042",
+    "cle_secrete": "e75acc5f"
+  },
+  {
+    "matricule": "7",
+    "password": "aa87ca7033a548e7",
+    "matricule_bac": "24851",
+    "cle_secrete": "f07d19ec"
+  },
+  {
+    "matricule": "8",
+    "password": "3c25b2d010cd2c6e",
+    "matricule_bac": "35127",
+    "cle_secrete": "e5bb9d45"
+  },
+  {
+    "matricule": "9",
+    "password": "b71a358839603a24",
+    "matricule_bac": "13515",
+    "cle_secrete": "d07fda74"
+  },
+  {
+    "matricule": "10",
+    "password": "24bcb70c2cccf3e9",
+    "matricule_bac": "30851",
+    "cle_secrete": "c41b27c9"
+  },
+  {
+    "matricule": "11",
+    "password": "e1da3c62e3bf6b94",
+    "matricule_bac": "50642",
+    "cle_secrete": "2595bcfb"
+  },
+  {
+    "matricule": "12",
+    "password": "079abb73484432d5",
+    "matricule_bac": "51763",
+    "cle_secrete": "2cc78b06"
+  },
+  {
+    "matricule": "13",
+    "password": "b2ae2522046d3564",
+    "matricule_bac": "22162",
+    "cle_secrete": "502894a0"
+  },
+  {
+    "matricule": "14",
+    "password": "8424ea66971dc046",
+    "matricule_bac": "25317",
+    "cle_secrete": "0dc31bec"
+  },
+  {
+    "matricule": "15",
+    "password": "7a1149c6f7ac4028",
+    "matricule_bac": "33079",
+    "cle_secrete": "7074242f"
+  },
+  {
+    "matricule": "16",
+    "password": "299fa9896bfbb9f2",
+    "matricule_bac": "37066",
+    "cle_secrete": "31037947"
+  },
+  {
+    "matricule": "17",
+    "password": "3ca6e8938f6e0876",
+    "matricule_bac": "10506",
+    "cle_secrete": "8b0385f3"
+  },
+  {
+    "matricule": "18",
+    "password": "64e89cfe6180b088",
+    "matricule_bac": "34806",
+    "cle_secrete": "f4ae5e8e"
+  },
+  {
+    "matricule": "19",
+    "password": "aca3614b12d7c3ca",
+    "matricule_bac": "25368",
+    "cle_secrete": "626c5727"
+  },
+  {
+    "matricule": "20",
+    "password": "bf367a7239a99a9d",
+    "matricule_bac": "40954",
+    "cle_secrete": "da37d690"
+  },
+  {
+    "matricule": "21",
+    "password": "79814ac586b452f3",
+    "matricule_bac": "55910",
+    "cle_secrete": "e9c571d5"
+  },
+  {
+    "matricule": "22",
+    "password": "a375e0e003613a03",
+    "matricule_bac": "35165",
+    "cle_secrete": "76f9612d"
+  },
+  {
+    "matricule": "23",
+    "password": "accbcdf8851655b1",
+    "matricule_bac": "39602",
+    "cle_secrete": "65ac3baf"
+  },
+  {
+    "matricule": "24",
+    "password": "7617064b2a30d1e6",
+    "matricule_bac": "41962",
+    "cle_secrete": "e537525a"
+  },
+  {
+    "matricule": "25",
+    "password": "a0a54dd4f63d95b1",
+    "matricule_bac": "24925",
+    "cle_secrete": "ac70c86e"
+  },
+  {
+    "matricule": "26",
+    "password": "6af25a8666016935",
+    "matricule_bac": "48157",
+    "cle_secrete": "e0fab433"
+  },
+  {
+    "matricule": "27",
+    "password": "0b0f1c65812e074b",
+    "matricule_bac": "44312",
+    "cle_secrete": "90ec49a3"
+  },
+  {
+    "matricule": "28",
+    "password": "a1bfde138c0b1fc2",
+    "matricule_bac": "56076",
+    "cle_secrete": "836183db"
+  },
+  {
+    "matricule": "29",
+    "password": "7c269f2c83684618",
+    "matricule_bac": "31861",
+    "cle_secrete": "afc10190"
+  },
+  {
+    "matricule": "30",
+    "password": "de5045c83193dad8",
+    "matricule_bac": "24212",
+    "cle_secrete": "9c7a29bd"
+  },
+  {
+    "matricule": "31",
+    "password": "97711a0861e3b63a",
+    "matricule_bac": "47258",
+    "cle_secrete": "68d2baad"
+  },
+  {
+    "matricule": "32",
+    "password": "732e609bde6e45e0",
+    "matricule_bac": "20779",
+    "cle_secrete": "6c5b858a"
+  },
+  {
+    "matricule": "33",
+    "password": "8ca1acee61d2d1a6",
+    "matricule_bac": "36678",
+    "cle_secrete": "944d855f"
+  },
+  {
+    "matricule": "34",
+    "password": "ec7eb11a9c43d0b2",
+    "matricule_bac": "15257",
+    "cle_secrete": "12c3acea"
+  },
+  {
+    "matricule": "35",
+    "password": "83a8996939567998",
+    "matricule_bac": "38205",
+    "cle_secrete": "0aeb9432"
+  },
+  {
+    "matricule": "36",
+    "password": "6523e4df8574041e",
+    "matricule_bac": "12525",
+    "cle_secrete": "8a710aca"
+  },
+  {
+    "matricule": "37",
+    "password": "730b89b88f3f7cd4",
+    "matricule_bac": "58566",
+    "cle_secrete": "f7070148"
+  },
+  {
+    "matricule": "38",
+    "password": "584e44d501b8e56f",
+    "matricule_bac": "30710",
+    "cle_secrete": "eee00491"
+  },
+  {
+    "matricule": "39",
+    "password": "a08e021171c95fc3",
+    "matricule_bac": "35773",
+    "cle_secrete": "e6f05da5"
+  },
+  {
+    "matricule": "40",
+    "password": "c52bbcfda2a0f5de",
+    "matricule_bac": "30459",
+    "cle_secrete": "5a44fce6"
+  },
+  {
+    "matricule": "41",
+    "password": "d80c2f34adda9720",
+    "matricule_bac": "43339",
+    "cle_secrete": "fdb46950"
+  },
+  {
+    "matricule": "42",
+    "password": "d4e09cc1ec9e49c5",
+    "matricule_bac": "37887",
+    "cle_secrete": "31c5e344"
+  },
+  {
+    "matricule": "43",
+    "password": "49a2084916959888",
+    "matricule_bac": "32615",
+    "cle_secrete": "6bece174"
+  },
+  {
+    "matricule": "44",
+    "password": "1d87be614a620ded",
+    "matricule_bac": "14100",
+    "cle_secrete": "4f00a822"
+  },
+  {
+    "matricule": "45",
+    "password": "ff654459ed8ab496",
+    "matricule_bac": "58727",
+    "cle_secrete": "37c1ae6e"
+  },
+  {
+    "matricule": "46",
+    "password": "1c0aaf16a608753d",
+    "matricule_bac": "25974",
+    "cle_secrete": "99dc6b49"
+  },
+  {
+    "matricule": "47",
+    "password": "d34db81b29d957ea",
+    "matricule_bac": "51134",
+    "cle_secrete": "a709e85c"
+  },
+  {
+    "matricule": "48",
+    "password": "6e613a558a996aad",
+    "matricule_bac": "48347",
+    "cle_secrete": "89614381"
+  },
+  {
+    "matricule": "49",
+    "password": "262f80ffa6a55d35",
+    "matricule_bac": "59147",
+    "cle_secrete": "186bf474"
+  },
+  {
+    "matricule": "50",
+    "password": "1566873d031d2cce",
+    "matricule_bac": "29814",
+    "cle_secrete": "45b306d3"
+  }
+]
