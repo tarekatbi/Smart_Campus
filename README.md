@@ -6,7 +6,7 @@ Plus de détails sont dans le fichier PDF du Mémoire.
 Voici quelques captures d'écrans des interfaces implémentées.
 
 <p float="left">
-<img src="./pfc/img/PFC _  un système intelligent de gestion d'un campus universitaire team library_page-0001" alt="PAG" width="70%"/>
+<img src="pfc/img/PFC _  un système intelligent de gestion d'un campus universitaire team library_page-0001.jpg" alt="PAG" width="70%"/>
 </p>
 
 <p float="left">
