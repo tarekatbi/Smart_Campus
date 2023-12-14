@@ -1,5 +1,5 @@
 # Smart_Campus
-Projet de fin d'étude dans le cadre dans une licence informatique à l'Université d'Oran 1 Ahmed Ben Bella
+Projet de fin d'étude dans le cadre d'une Licence Informatique à l'Université d'Oran 1 Ahmed Ben Bella
 
 Plus de détails sont dans le fichier PDF du Mémoire.
 
